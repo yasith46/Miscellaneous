@@ -1,4 +1,4 @@
-// C++ program for sorting exercises
+// C++ program for sorting exercise
 #include <iostream>
 #include <vector>
 
