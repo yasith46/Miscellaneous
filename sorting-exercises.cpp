@@ -1,5 +1,4 @@
-// C++ program to illustrate the
-// iterators in vector
+// C++ program for sorting exercises
 #include <iostream>
 #include <vector>
 
